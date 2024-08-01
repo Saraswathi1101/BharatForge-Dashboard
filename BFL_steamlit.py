@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Bharat Forge Limited Recruitment Tracker",
-    page_icon="https://github.com/Saraswathi1101/BharatForge-Dashboard/blob/main/KG-2.jfif"  # Path to image file
+    page_icon="https://github.com/Saraswathi1101/BharatForge-Dashboard/blob/main/kgpng.png"  # Path to image file
 )
 
 # URL for the Power BI report
