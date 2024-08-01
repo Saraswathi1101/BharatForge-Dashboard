@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="BFL Recruitment Tracker",
+    page_title="BFL-Gitforce Recruitment Tracker",
     page_icon="kgpng.png"# Path to image file
 )
 
