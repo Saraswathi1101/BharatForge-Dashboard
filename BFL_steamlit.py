@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(
     page_title="BFL Recruitment Tracker",
     page_icon="kgpng.png",
-    theme = "light"# Path to image file
+    base = "light"# Path to image file
 )
 
 # URL for the Power BI report
