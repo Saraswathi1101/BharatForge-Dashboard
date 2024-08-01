@@ -10,7 +10,7 @@ powerbi_url = "https://app.fabric.microsoft.com/view?r=eyJrIjoiODNlNjY0ZTctOTllN
 
 
 iframe_code = f'''
-<div style="width: 1390px; box-sizing: border-box; margin-left: -340px; margin-top: -100px; background-color: white;">
+<div style="width: 1390px; box-sizing: border-box; margin-left: -350px; margin-top: -100px; background-color: white;">
     <iframe width="100%" height="690" src="{powerbi_url}" frameborder="0" allowFullScreen="true" style="margin-top: 62px; background-color: white;"></iframe>
 </div>
 '''
